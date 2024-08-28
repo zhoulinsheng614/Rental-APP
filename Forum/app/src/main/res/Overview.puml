@@ -1,0 +1,61 @@
+@startuml
+'https://plantuml.com/class-diagram
+
+'Entrance of app
+class Account {
++ String name
++ String password
++ Account leftchild
++ Account rightchild
+
++ getAccount()
++ setAccount(String account)
++ getPassword()
++ setPassword(String password)
++ getLeft()
++ setLeft()
++ getRight()
++ setRight()
+
++ getName()
++ setName(String name)
++ String getPassword()
++ getBalanceFactor()
++ add(Account account)
++ delete(Account account)
+}
+
+class MainActivity{
++ onCreate(Bundle savedInstanceState)
++ jump(View v)
+}
+
+class LogIn{
++ onCreate(Bundle savedInstanceState)
++ applyLogin(View v)
+}
+
+MainActivity ..> LogIn: + jump(View v)
+
+
+'Cloud Database notification or update
+class DatabaseUpdateNotification {
++ notifyUser(parameter list): void
+}
+
+class UserNotification{
++ notifyUser(parameter list): void
+}
+
+class AdministratorNotification{
++ notifyUser(parameter list): void
+}
+
+class OtherNotification{
++ notifyUser(parameter list): void
+}
+
+DatabaseUpdateNotification ..|> UserNotification: + notifyUser(parameter list): void
+DatabaseUpdateNotification ..|> AdministratorNotification: + notifyUser(parameter list): void
+DatabaseUpdateNotification ..|> OtherNotification: + notifyUser(parameter list): void
+@enduml

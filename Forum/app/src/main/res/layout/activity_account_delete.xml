@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".AccountDelete">
+
+    <EditText
+        android:id="@+id/delete_account"
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:layout_marginStart="109dp"
+        android:layout_marginTop="134dp"
+        android:layout_marginEnd="92dp"
+        android:layout_marginBottom="50dp"
+        android:ems="10"
+        android:hint="Account"
+        android:inputType="text"
+        app:layout_constraintBottom_toTopOf="@+id/delete_password"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <EditText
+        android:id="@+id/delete_password"
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:layout_marginStart="109dp"
+        android:layout_marginTop="50dp"
+        android:layout_marginEnd="92dp"
+        android:layout_marginBottom="457dp"
+        android:ems="10"
+        android:hint="Password"
+        android:inputType="textPassword"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/delete_account" />
+
+    <Button
+        android:id="@+id/button_delete"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="145dp"
+        android:layout_marginTop="37dp"
+        android:layout_marginEnd="145dp"
+        android:layout_marginBottom="342dp"
+        android:onClick="applyDelete"
+        android:text="Delete Now"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/delete_password" />
+
+    <TextView
+        android:id="@+id/textView_DeletionPage"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="176dp"
+        android:layout_marginTop="42dp"
+        android:layout_marginEnd="177dp"
+        android:layout_marginBottom="43dp"
+        android:text="Account Deletion Page"
+        app:layout_constraintBottom_toTopOf="@+id/delete_account"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+</androidx.constraintlayout.widget.ConstraintLayout>

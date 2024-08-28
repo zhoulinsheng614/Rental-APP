@@ -1,0 +1,405 @@
+<addresses>
+    <province name="Canberra">
+        <suburb name="City">
+            <street>Allara Street</street>
+            <street>Boolee Street</street>
+            <street>Chifley Square</street>
+            <street>Clunies Ross Street</street>
+            <street>Barry Dr</street>
+        </suburb>
+        <suburb name="Kingston">
+            <street>Eastlane</street>
+            <street>Forrest Drive</street>
+            <street>Wentworth Avenue</street>
+            <street>Parbery Street</street>
+            <street>Cunningham Street</street>
+        </suburb>
+        <suburb name="Braddon">
+            <street>Lonsdale Street</street>
+            <street>Mort Street</street>
+            <street>Elouera Street</street>
+            <street>Torrens Street</street>
+            <street>Girrahween Street</street>
+        </suburb>
+        <suburb name="Barton">
+            <street>Barton Highway</street>
+            <street>Kings Avenue</street>
+            <street>Macquarie Street</street>
+            <street>Blackall Street</street>
+            <street>Broughton Street</street>
+        </suburb>
+        <suburb name="Deakin">
+            <street>Kent Street</street>
+            <street>Hopetoun Circuit</street>
+            <street>Dennys Street</street>
+            <street>Stonehaven Crescent</street>
+            <street>Norman Street</street>
+        </suburb>
+        <suburb name="Yarralumla">
+            <street>Banks Street</street>
+            <street>Schlich Street</street>
+            <street>Novar Street</street>
+            <street>Brown Street</street>
+            <street>Hopetoun Circuit</street>
+        </suburb>
+        <suburb name="Reid">
+            <street>Ainslie Avenue</street>
+            <street>Coranderrk Street</street>
+            <street>Elimatta Street</street>
+            <street>Cootha Place</street>
+            <street>Dirrawan Gardens</street>
+        </suburb>
+        <suburb name="Acton">
+            <street>Marcus Clarke Street</street>
+            <street>McCaughey Street</street>
+            <street>Lawry Place</street>
+            <street>Frith Road</street>
+            <street>University Avenue</street>
+        </suburb>
+    </province>
+    <province name="Sydney">
+        <suburb name="Central">
+            <street>George Street</street>
+            <street>Pitt Street</street>
+            <street>Hay Street</street>
+            <street>Randle Street</street>
+            <street>Chalmers Street</street>
+        </suburb>
+        <suburb name="Bondi">
+            <street>Beach Road</street>
+            <street>Ocean Street</street>
+            <street>Glen Street</street>
+            <street>Miller Street</street>
+            <street>Avoca Street</street>
+        </suburb>
+        <suburb name="Darlinghurst">
+            <street>Oxford Street</street>
+            <street>Crown Street</street>
+            <street>Bourke Street</street>
+            <street>Liverpool Street</street>
+            <street>Flinders Street</street>
+        </suburb>
+        <suburb name="Paddington">
+            <street>Oxford Street</street>
+            <street>Glenmore Road</street>
+            <street>Hargrave Street</street>
+            <street>Underwood Street</street>
+            <street>William Street</street>
+        </suburb>
+        <suburb name="Chippendale">
+            <street>Broadway</street>
+            <street>Abercrombie Street</street>
+            <street>Kensington Street</street>
+            <street>Balfour Street</street>
+            <street>O'Connor Street</street>
+        </suburb>
+        <suburb name="Pyrmont">
+            <street>Harris Street</street>
+            <street>Jones Bay Road</street>
+            <street>Pirrama Road</street>
+            <street>Bowen Drive</street>
+            <street>Miller Street</street>
+        </suburb>
+        <suburb name="Surry Hills">
+            <street>Crown Street</street>
+            <street>Foveaux Street</street>
+            <street>Riley Street</street>
+            <street>Campbell Street</street>
+            <street>Devonshire Street</street>
+        </suburb>
+        <suburb name="Redfern">
+            <street>Redfern Street</street>
+            <street>Cleveland Street</street>
+            <street>Chalmers Street</street>
+            <street>George Street</street>
+            <street>Phillip Street</street>
+        </suburb>
+    </province>
+    <province name="Melbourne">
+        <suburb name="Richmond">
+            <street>Victoria Street</street>
+            <street>Church Street</street>
+            <street>Swan Street</street>
+            <street>Mary Street</street>
+            <street>Davis Street</street>
+        </suburb>
+        <suburb name="Southbank">
+            <street>City Road</street>
+            <street>Southbank Boulevard</street>
+            <street>Kavanagh Street</street>
+            <street>Queensbridge Street</street>
+            <street>Fawkner Street</street>
+        </suburb>
+        <suburb name="Carlton">
+            <street>Lygon Street</street>
+            <street>Elgin Street</street>
+            <street>Rathdowne Street</street>
+            <street>Cardigan Street</street>
+            <street>Drummond Street</street>
+        </suburb>
+        <suburb name="Fitzroy">
+            <street>Brunswick Street</street>
+            <street>Gertrude Street</street>
+            <street>Smith Street</street>
+            <street>Napier Street</street>
+            <street>Moor Street</street>
+        </suburb>
+        <suburb name="St Kilda">
+            <street>Fitzroy Street</street>
+            <street>Acland Street</street>
+            <street>Carlisle Street</street>
+            <street>Barkly Street</street>
+            <street>Grey Street</street>
+        </suburb>
+        <suburb name="Richmond">
+            <street>Church Street</street>
+            <street>Swan Street</street>
+            <street>Bridge Road</street>
+            <street>Burnley Street</street>
+            <street>Cremorne Street</street>
+        </suburb>
+        <suburb name="Docklands">
+            <street>Docklands Drive</street>
+            <street>Bourke Street</street>
+            <street>Collins Street</street>
+            <street>Harbour Esplanade</street>
+            <street>Wurundjeri Way</street>
+        </suburb>
+    </province>
+    <province name="Brisbane">
+        <suburb name="Southbank">
+            <street>Grey Street</street>
+            <street>Stanley Street</street>
+            <street>Peel Street</street>
+            <street>Hope Street</street>
+            <street>Cordelia Street</street>
+        </suburb>
+        <suburb name="Fortitude Valley">
+            <street>James Street</street>
+            <street>Ann Street</street>
+            <street>Brunswick Street</street>
+            <street>Ivory Street</street>
+            <street>Gotha Street</street>
+        </suburb>
+    </province>
+    <province name="Adelaide">
+        <suburb name="North Adelaide">
+            <street>King William Road</street>
+            <street>O'Connell Street</street>
+            <street>Brougham Place</street>
+            <street>Jeffcott Street</street>
+            <street>Wellington Square</street>
+        </suburb>
+        <suburb name="Glenelg">
+            <street>Jetty Road</street>
+            <street>Colley Terrace</street>
+            <street>Moseley Street</street>
+            <street>Chapel Street</street>
+            <street>Brighton Road</street>
+        </suburb>
+        <suburb name="Norwood">
+            <street>The Parade</street>
+            <street>George Street</street>
+            <street>Edward Street</street>
+            <street>Webster Street</street>
+            <street>Fullarton Road</street>
+        </suburb>
+        <suburb name="Port Adelaide">
+            <street>Commercial Road</street>
+            <street>St Vincent Street</street>
+            <street>Lipson Street</street>
+            <street>Church Street</street>
+            <street>Divett Street</street>
+        </suburb>
+        <suburb name="Prospect">
+            <street>Prospect Road</street>
+            <street>Regency Road</street>
+            <street>Churchill Road</street>
+            <street>Rose Street</street>
+            <street>Myrtle Street</street>
+        </suburb>
+        <suburb name="Unley">
+            <street>Unley Road</street>
+            <street>King William Road</street>
+            <street>Wattle Street</street>
+            <street>Arthur Street</street>
+            <street>Duthy Street</street>
+        </suburb>
+    </province>
+    <province name="Perth">
+        <suburb name="Fremantle">
+            <street>High Street</street>
+            <street>Market Street</street>
+            <street>South Terrace</street>
+            <street>Essex Street</street>
+            <street>Parry Street</street>
+        </suburb>
+        <suburb name="Scarborough">
+            <street>West Coast Highway</street>
+            <street>Scarborough Beach Road</street>
+            <street>Brighton Road</street>
+            <street>Duke Street</street>
+            <street>Stanley Street</street>
+        </suburb>
+        <suburb name="Subiaco">
+            <street>Rokeby Road</street>
+            <street>Bagot Road</street>
+            <street>Hay Street</street>
+            <street>Roberts Road</street>
+            <street>Churchill Avenue</street>
+        </suburb>
+        <suburb name="Cottesloe">
+            <street>Stirling Highway</street>
+            <street>Marine Parade</street>
+            <street>Broome Street</street>
+            <street>John Street</street>
+            <street>Overton Gardens</street>
+        </suburb>
+        <suburb name="Claremont">
+            <street>St Quentin Avenue</street>
+            <street>Bay View Terrace</street>
+            <street>Gugeri Street</street>
+            <street>Stirling Highway</street>
+            <street>Leura Avenue</street>
+        </suburb>
+        <suburb name="Joondalup">
+            <street>Grand Boulevard</street>
+            <street>Boas Avenue</street>
+            <street>Lakeside Drive</street>
+            <street>Shenton Avenue</street>
+            <street>McLintock Way</street>
+        </suburb>
+    </province>
+    <province name="Darwin">
+        <suburb name="Darwin City">
+            <street>Mitchell Street</street>
+            <street>Smith Street</street>
+            <street>Knuckey Street</street>
+            <street>Cavenagh Street</street>
+            <street>Bennett Street</street>
+        </suburb>
+        <suburb name="Parap">
+            <street>Parap Road</street>
+            <street>Vickers Street</street>
+            <street>Gregory Street</street>
+            <street>Somerville Gardens</street>
+            <street>Tasman Terrace</street>
+        </suburb>
+        <suburb name="Nightcliff">
+            <street>Progress Drive</street>
+            <street>Casuarina Drive</street>
+            <street>Aralia Street</street>
+            <street>Pavonia Place</street>
+            <street>Cypress Street</street>
+        </suburb>
+        <suburb name="Fannie Bay">
+            <street>East Point Road</street>
+            <street>Keith Lane</street>
+            <street>Ross Smith Avenue</street>
+            <street>Fannie Bay Place</street>
+            <street>Gilruth Avenue</street>
+        </suburb>
+        <suburb name="Ludmilla">
+            <street>Bagot Road</street>
+            <street>Totem Road</street>
+            <street>Banksia Street</street>
+            <street>Delatour Street</street>
+            <street>Koolpinyah Crescent</street>
+        </suburb>
+        <suburb name="Stuart Park">
+            <street>Tiger Brennan Drive</street>
+            <street>Duke Street</street>
+            <street>Gothenburg Crescent</street>
+            <street>McMinn Street</street>
+            <street>Charles Street</street>
+        </suburb>
+    </province>
+    <province name="Hobart">
+        <suburb name="Hobart CBD">
+            <street>Elizabeth Street</street>
+            <street>Macquarie Street</street>
+            <street>Liverpool Street</street>
+            <street>Murray Street</street>
+            <street>Collins Street</street>
+        </suburb>
+        <suburb name="Battery Point">
+            <street>Hampden Road</street>
+            <street>Cromwell Street</street>
+            <street>De Witt Street</street>
+            <street>Logan Street</street>
+            <street>Kelly Street</street>
+        </suburb>
+        <suburb name="Sandy Bay">
+            <street>Sandy Bay Road</street>
+            <street>Regent Street</street>
+            <street>King Street</street>
+            <street>Osborne Avenue</street>
+            <street>Wayne Avenue</street>
+        </suburb>
+        <suburb name="North Hobart">
+            <street>Elizabeth Street</street>
+            <street>Argyle Street</street>
+            <street>Federal Street</street>
+            <street>Tasma Street</street>
+            <street>Pitt Street</street>
+        </suburb>
+        <suburb name="West Hobart">
+            <street>Hill Street</street>
+            <street>Goulburn Street</street>
+            <street>Arthur Street</street>
+            <street>Lochner Street</street>
+            <street>Hamilton Street</street>
+        </suburb>
+        <suburb name="South Hobart">
+            <street>Macquarie Street</street>
+            <street>Davey Street</street>
+            <street>Elboden Street</street>
+            <street>Weld Street</street>
+            <street>D'Arcy Street</street>
+        </suburb>
+    </province>
+    <province name="Gold Coast">
+        <suburb name="Surfers Paradise">
+            <street>Cavill Avenue</street>
+            <street>Surfers Paradise Boulevard</street>
+            <street>Elkhorn Avenue</street>
+            <street>Orchid Avenue</street>
+            <street>Hamilton Avenue</street>
+        </suburb>
+        <suburb name="Broadbeach">
+            <street>Hooker Boulevard</street>
+            <street>Surf Parade</street>
+            <street>Oracle Boulevard</street>
+            <street>Elizabeth Avenue</street>
+            <street>Charles Avenue</street>
+        </suburb>
+        <suburb name="Burleigh Heads">
+            <street>James Street</street>
+            <street>Connor Street</street>
+            <street>Park Avenue</street>
+            <street>Goodwin Terrace</street>
+            <street>George Street West</street>
+        </suburb>
+        <suburb name="Coolangatta">
+            <street>Marine Parade</street>
+            <street>McLean Street</street>
+            <street>Dutton Street</street>
+            <street>Griffith Street</street>
+            <street>Musgrave Street</street>
+        </suburb>
+        <suburb name="Southport">
+            <street>Nerang Street</street>
+            <street>Scarborough Street</street>
+            <street>Queen Street</street>
+            <street>Lenneberg Street</street>
+            <street>Rawlins Street</street>
+        </suburb>
+        <suburb name="Robina">
+            <street>Robina Town Centre Drive</street>
+            <street>Scottsdale Drive</street>
+            <street>Bellerive Avenue</street>
+            <street>Cheltenham Drive</street>
+            <street>Boowaggan Road</street>
+        </suburb>
+    </province>
+</addresses>

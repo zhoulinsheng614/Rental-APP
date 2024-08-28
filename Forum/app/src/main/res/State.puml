@@ -1,0 +1,29 @@
+@startuml
+'https://plantuml.com/class-diagram
+
+' Abstract State and Concrete States
+abstract class State {
+  +handle()
+}
+
+class ConcreteStateA extends State {
+  +handle()
+}
+
+class ConcreteStateB extends State {
+  +handle()
+}
+
+' Context Class
+class Context {
+  -state: State
+  +request()
+  +setState(State)
+}
+
+State <|-- ConcreteStateA
+State <|-- ConcreteStateB
+
+Context -right-> State: -has a >
+
+@enduml

@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "216254547848",
+    "firebase_url": "https://forumdiscussion-fd461-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "forumdiscussion-fd461",
+    "storage_bucket": "forumdiscussion-fd461.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216254547848:android:6fa69a4277dd0ffe5d5c3d",
+        "android_client_info": {
+          "package_name": "com.example.bookmark"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApCtwXr6Akj9NAhx42v6mo_iL41Y9yslE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216254547848:android:14efa0a7d5c5b0465d5c3d",
+        "android_client_info": {
+          "package_name": "com.example.forum"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApCtwXr6Akj9NAhx42v6mo_iL41Y9yslE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

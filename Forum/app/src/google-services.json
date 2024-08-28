@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "834952222343",
+    "project_id": "ga-23s2-a5f8f",
+    "storage_bucket": "ga-23s2-a5f8f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:834952222343:android:4ca2a5f319353a50ed0a22",
+        "android_client_info": {
+          "package_name": "com.example.forum"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiPjW67G8t7GvtkVI1RVXP_PldGeBFsLE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

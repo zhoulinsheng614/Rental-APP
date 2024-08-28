@@ -1,0 +1,23 @@
+@startuml
+'https://plantuml.com/class-diagram
+
+class Notification {
++ notifyUser(parameter list): void
+}
+
+class SMSNotification{
++ notifyUser(parameter list): void
+}
+
+class EmailNotification{
++ notifyUser(parameter list): void
+}
+
+class PushNotification{
++ notifyUser(parameter list): void
+}
+
+Notification ..|> SMSNotification: + notifyUser(parameter list): void
+Notification ..|> EmailNotification: + notifyUser(parameter list): void
+Notification ..|> PushNotification: + notifyUser(parameter list): void
+@enduml
